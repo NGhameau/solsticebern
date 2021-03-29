@@ -1,0 +1,37 @@
+body {
+  background-color: #5eaaa8;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-family: 'Josefin Slab', serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+  margin: 8rem 2rem 2rem;
+}
+
+h2 {
+  font-family: 'Josefin Slab', serif;
+  margin: 2rem;
+}
+
+hr {
+  border-top: 5px black solid;
+  border-bottom: 5px black double;
+  margin: 0 2rem
+}
+
+
+
+
+/**/
+.navbar {
+  margin-bottom: 4rem;
+}
+
+.navbar-brand {
+  font-family: 'Josefin Slab', serif;
+  font-weight: 400;
+}
+
+/*needSomeHelp Section*/
